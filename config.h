@@ -195,5 +195,6 @@ static Button buttons[] = {
 };
 
 static SearchEngine searchengines[] = {
-	{"g", "http://google.com/search?q=%s"}
+	{"g", "http://google.com/search?q=%s"},
+	{"y", "https://www.youtube.com/results?search_query=%s"}
 };
